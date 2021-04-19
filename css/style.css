@@ -1,0 +1,29 @@
+#main {
+    border: 2px solid rgb(121, 125, 129);
+   margin-top: 10vh;
+   max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+   text-align: center;
+   background-color: rgba(185, 178, 178, 0.774);
+}
+#img-div {
+    border: 2px solid whitesmoke;
+    background-color: whitesmoke;
+    padding-top: 40px;
+    padding-bottom: 40px;
+   margin-top: 10vh;
+   max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+   text-align: center;
+}
+#img-div img{
+   align-content:center;
+   margin-left: auto;
+   margin-right: auto;
+   
+   width:90%;
+}
+
