@@ -27,3 +27,12 @@
    width:90%;
 }
 
+span {
+   font-weight: bold;
+   
+}
+
+ul li {
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
