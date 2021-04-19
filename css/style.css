@@ -24,7 +24,9 @@
    margin-left: auto;
    margin-right: auto;
    
-   width:90%;
+   max-width:70%;
+   display: block;
+   height:auto;
 }
 
 span {
